@@ -1,0 +1,22 @@
+# venv
+bin/
+lib/
+lib64/
+include/
+pyvenv.cfg
+.venv/
+task2/
+
+# env
+.env
+
+# database
+*.db
+*.sqlite3
+
+# cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/

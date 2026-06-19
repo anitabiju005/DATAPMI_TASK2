@@ -32,7 +32,7 @@ The application supports:
 ## Project Structure
 
 ```text
-task2/
+TASK2/
 │
 ├── app/
 │   ├── dependencies/
